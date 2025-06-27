@@ -1,7 +1,7 @@
 let IS_PROD = true;
 
 const server = IS_PROD ?
-    "https://converzio-video-calling-backend.onrender.com" :
+    "https://agorameet-backend.onrender.com" :
 
     "http://localhost:8000"
 
